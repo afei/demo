@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ActiveSupport	test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
+Application	config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Demo
+ApplicationController	app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+Demo	config/application.rb	/^module Demo$/;"	m
+WecomeControllerTest	test/controllers/wecome_controller_test.rb	/^class WecomeControllerTest < ActionController::TestCase$/;"	c
+WecomeHelper	app/helpers/wecome_helper.rb	/^module WecomeHelper$/;"	m
+WelcomeController	app/controllers/wecome_controller.rb	/^class WelcomeController < ApplicationController$/;"	c
+WelcomeController	app/controllers/welcome_controller.rb	/^class WelcomeController < ApplicationController$/;"	c
+WelcomeControllerTest	test/controllers/welcome_controller_test.rb	/^class WelcomeControllerTest < ActionController::TestCase$/;"	c
+WelcomeHelper	app/helpers/welcome_helper.rb	/^module WelcomeHelper$/;"	m
+index	app/controllers/wecome_controller.rb	/^  def index$/;"	f	class:WelcomeController
+index	app/controllers/welcome_controller.rb	/^  def index$/;"	f	class:WelcomeController
